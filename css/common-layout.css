@@ -1,0 +1,191 @@
+body{
+margin:0;
+padding: 0;
+}
+
+.wrapper{
+    width: 1280px;
+    margin: 0 auto;
+    background-color:#FFFFFF;
+    padding: 5px;
+    
+    }
+
+#logo{
+	margin-top:40px;
+}
+
+.search{
+  position:absolute;
+  top:30px;
+  right:150px;
+}
+a:hover{
+	color:#333399;
+	text-decoration:none;
+	cursor:pointer;
+}
+ 
+.btn:hover{
+	background-color:#006600;
+	color:#FFFFFF;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.hgroup{
+	vertical-align:top;
+	display:inline-block;
+	margin-left:10px;
+}
+
+#social-links {
+	display:inline-block;
+	margin:5px;
+	padding:0;
+	position: absolute;
+	top:60px;
+	right:150px;
+}
+	#social-links li{
+		display:inline;
+		margin: 2px;
+	}
+
+nav a {
+	display:inline-block;	
+	background-color: #333399;
+	color:#FFFFFF;
+	width:150px;
+	padding:15px;
+	margin:5px;
+	text-align:center;
+	font-size:18px;
+	text-decoration:none;
+}
+
+nav a:hover {
+	background-color:#3366ff;
+	text-decoration:none;
+	color:#000000;
+	cursor:pointer;
+}
+
+
+
+
+.news-block ul{
+	list-style-type: none;
+}
+
+.left-pane{
+        display:inline-block;
+        width:40%;
+    }
+
+    .right-pane{
+        display:inline-block;
+        width:60%;
+        float:right;
+        margin-top:30px;
+        vertical-align: top;
+    }
+
+.left-pane .thumbnail{
+	height:100px;
+	width: 100px;	
+}
+
+.align-to-left .thumbnail {
+	float:left;
+}
+
+.align-to-right .thumbnail {
+	float:right;
+}
+
+.events input{
+	float: right;
+	vertical-align: top;
+}
+
+.events h6{
+	width: 360px;
+}
+
+.events img{
+	width:350px;
+	height: 201px;
+}
+
+.events .date{
+	float: right;
+}
+
+.btn .btn-next{
+	left: 350px;
+}
+.main-content img{
+	float: right;
+}
+
+#mini-gallery li{
+	 list-style-type: none;
+	 display:inline;
+	 margin-top:20px;
+	 margin-bottom:20px;
+	 
+}
+
+.tabs li{
+	 list-style-type: none;
+	 display:inline;
+	 margin-top:20px;
+	 margin-bottom:20px;
+}
+  
+ .tabs li img{
+	 width:100px;
+	 height:100px;
+	  
+}
+ 
+.feature-boxes  ul li {
+	list-style-type: none;
+	border: 2px solid;
+	width: 30%;
+	float:left;
+	position: relative;
+} 
+ 
+ .map img {
+	 width:100%;
+	 height:30%;
+	 float:right;
+}
+
+.intake img{
+	 width:100%;
+	 height:30%;
+}
+	.intake .datepicker
+	{
+		width: 180px;
+	}
+	ui-datepicker table
+
+.feedback span{
+	display:inline-block;
+	float:left;
+}
+ 
+.my-page{
+	width: 1280px;
+	margin: 0 auto;
+	background-color:#333399;
+	padding: 5px;
+	position: relative;
+	
+}
+
+
